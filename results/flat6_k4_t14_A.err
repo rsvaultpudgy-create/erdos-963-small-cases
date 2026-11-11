@@ -1,0 +1,17 @@
+case 1: 36 candidate forms
+progress: solved 500000 (lines 492058, planes 7895, 3-spaces 46) nodes=3742845 lines by shortcut 455203 / full 13 cpu=128s
+progress: solved 1000000 (lines 984011, planes 15917, 3-spaces 71) nodes=6742455 lines by shortcut 914005 / full 170 cpu=230s
+progress: solved 1500000 (lines 1475900, planes 24005, 3-spaces 94) nodes=9208944 lines by shortcut 1372982 / full 845 cpu=311s
+progress: solved 2000000 (lines 1967697, planes 32184, 3-spaces 118) nodes=10739084 lines by shortcut 1828118 / full 3379 cpu=364s
+progress: solved 2500000 (lines 2459463, planes 40393, 3-spaces 143) nodes=12021370 lines by shortcut 2282901 / full 8723 cpu=413s
+progress: solved 3000000 (lines 2951367, planes 48465, 3-spaces 167) nodes=13608752 lines by shortcut 2726235 / full 30546 cpu=485s
+progress: solved 3500000 (lines 3442662, planes 57143, 3-spaces 194) nodes=14934383 lines by shortcut 3174595 / full 46313 cpu=546s
+progress: solved 4000000 (lines 3933869, planes 65909, 3-spaces 221) nodes=16240503 lines by shortcut 3625308 / full 59270 cpu=605s
+progress: solved 4500000 (lines 4424205, planes 75541, 3-spaces 253) nodes=17679415 lines by shortcut 4077864 / full 72449 cpu=667s
+progress: solved 5000000 (lines 4915623, planes 84097, 3-spaces 279) nodes=18933130 lines by shortcut 4510668 / full 106543 cpu=745s
+progress: solved 5500000 (lines 5406921, planes 92773, 3-spaces 305) nodes=20223938 lines by shortcut 4938797 / full 146482 cpu=829s
+top-level: finished depth-1 choice 2  (nodes 20800442, subspaces solved 5736065, best 11, cpu 868s)
+top-level: finished depth-1 choice 4  (nodes 20800471, subspaces solved 5736065, best 11, cpu 868s)
+top-level: finished depth-1 choice 12  (nodes 20800472, subspaces solved 5736065, best 11, cpu 868s)
+top-level: finished depth-1 choice 20  (nodes 20800472, subspaces solved 5736065, best 11, cpu 868s)
+top-level: finished depth-0 choice 0  (nodes 20800472, subspaces solved 5736065, best 11, cpu 868s)

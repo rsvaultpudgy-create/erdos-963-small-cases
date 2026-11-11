@@ -1,0 +1,41 @@
+case 1: 36 candidates
+size 4 (dim 4) nodes 1
+size 5 (dim 4) nodes 2
+size 6 (dim 3) nodes 3
+size 7 (dim 3) nodes 4
+size 8 (dim 1) nodes 5
+size 9 (line) values: 6 9 5 7 3 15 12 2 13
+size 10 (line) values: 3 12 5 1 9 15 6 4 2 8
+size 11 (line) values: 5 2 1 9 7 3 10 8 11 4 6
+size 12 (dim 1) nodes 69
+nodes=65536 dims[1..4]=63444 2088 2 2 dim1calls=1192 path: 0 1 2 4 6 15
+nodes=131072 dims[1..4]=127237 3806 27 2 dim1calls=1938 path: 0 1 2 6 8 20
+nodes=196608 dims[1..4]=190866 5698 42 2 dim1calls=2211 path: 0 1 2 7 10 12
+nodes=262144 dims[1..4]=254422 7661 59 2 dim1calls=2306 path: 0 1 2 9 13 17
+nodes=327680 dims[1..4]=318005 9595 78 2 dim1calls=2336 path: 0 1 2 11 29
+nodes=393216 dims[1..4]=381403 11719 92 2 dim1calls=2423 path: 0 1 3 7 17 29
+nodes=458752 dims[1..4]=444884 13774 92 2 dim1calls=2584 path: 0 1 3 10 17 26
+nodes=524288 dims[1..4]=508180 16014 92 2 dim1calls=2762 path: 0 1 3 13 26 29
+nodes=589824 dims[1..4]=571856 17874 92 2 dim1calls=2803 path: 0 1 4 5 19 20
+nodes=655360 dims[1..4]=635310 19956 92 2 dim1calls=2825 path: 0 1 4 10 15 26
+nodes=720896 dims[1..4]=699012 21780 102 2 dim1calls=2947 path: 0 1 5 6 15 21
+nodes=786432 dims[1..4]=762715 23604 111 2 dim1calls=3003 path: 0 1 5 9 10 13
+nodes=851968 dims[1..4]=826500 25337 129 2 dim1calls=3019 path: 0 1 5 17 22
+nodes=917504 dims[1..4]=890287 27072 143 2 dim1calls=3083 path: 0 1 6 8 9 25
+nodes=983040 dims[1..4]=954172 28705 161 2 dim1calls=3157 path: 0 1 6 11 16 20
+nodes=1048576 dims[1..4]=1017883 30520 171 2 dim1calls=3167 path: 0 1 6 17 25 29
+nodes=1114112 dims[1..4]=1081404 32525 181 2 dim1calls=3173 path: 0 1 7 10 17 21
+nodes=1179648 dims[1..4]=1145033 34418 195 2 dim1calls=3198 path: 0 1 8 10 11 17
+nodes=1245184 dims[1..4]=1208481 36503 198 2 dim1calls=3201 path: 0 1 9 10 11 13
+nodes=1310720 dims[1..4]=1272359 38143 216 2 dim1calls=3230 path: 0 1 9 15 18
+nodes=1376256 dims[1..4]=1336177 39840 237 2 dim1calls=3233 path: 0 1 10 13 17 21
+nodes=1441792 dims[1..4]=1399694 41850 246 2 dim1calls=3235 path: 0 1 11 13 17 25
+nodes=1507328 dims[1..4]=1463256 43811 259 2 dim1calls=3241 path: 0 1 13 22
+nodes=1572864 dims[1..4]=1526634 45956 272 2 dim1calls=3249 path: 0 1 20
+nodes=1638400 dims[1..4]=1589926 48191 281 2 dim1calls=4689 path: 0 1 2 4 7 10
+nodes=1703936 dims[1..4]=1653158 50478 298 2 dim1calls=5444 path: 0 1 2 5 7 21
+nodes=1769472 dims[1..4]=1716515 52646 309 2 dim1calls=5614 path: 0 1 2 7 20 21
+nodes=1835008 dims[1..4]=1779825 54861 320 2 dim1calls=5694 path: 0 1 2 9 24 26
+nodes=1900544 dims[1..4]=1842907 57298 337 2 dim1calls=5710 path: 0 1 2 14 23 24
+nodes=1966080 dims[1..4]=1905693 60035 350 2 dim1calls=5838 path: 0 1 3 4 5 10
+nodes=2031616 dims[1..4]=1969136 62118 360 2 dim1calls=6281 path: 0 1 3 5 11 20

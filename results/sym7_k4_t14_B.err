@@ -1,0 +1,29 @@
+case 2: 24 candidates
+size 4 (dim 4) nodes 1
+size 5 (dim 4) nodes 2
+size 6 (dim 3) nodes 3
+size 7 (dim 3) nodes 7
+size 8 (line) values: 4 2 8 1 10 3 9 7
+size 9 (line) values: 4 2 8 1 10 3 9 7 13
+size 10 (line) values: 4 2 8 1 10 3 9 7 13 6
+size 11 (dim 2) nodes 1934
+nodes=65536 dims[1..4]=0 65528 6 2 dim1calls=6530 path: 0 7 10
+nodes=131072 dims[1..4]=0 130962 108 2 dim1calls=14948 path: 0 3 11
+nodes=196608 dims[1..4]=0 196189 417 2 dim1calls=23263 path: 5
+nodes=262144 dims[1..4]=0 261626 516 2 dim1calls=40875 path: 3 4 6 10 18
+nodes=327680 dims[1..4]=0 327138 540 2 dim1calls=48761 path: 2 3 7 17
+nodes=393216 dims[1..4]=0 392304 910 2 dim1calls=53990 path: 9 12
+nodes=458752 dims[1..4]=0 457786 964 2 dim1calls=75879 path: 1 7
+nodes=524288 dims[1..4]=0 523190 1096 2 dim1calls=100329 path: 8 11
+nodes=589824 dims[1..4]=0 588647 1175 2 dim1calls=109685 path: 6 12 15
+nodes=655360 dims[1..4]=0 654130 1228 2 dim1calls=118130 path: 14 15 16 17 18
+nodes=720896 dims[1..4]=0 719294 1600 2 dim1calls=124966 path: 4 12 15
+nodes=786432 dims[1..4]=0 784824 1606 2 dim1calls=132701 path: 6 7 14
+nodes=851968 dims[1..4]=0 850288 1678 2 dim1calls=140764 path: 3 9 15
+nodes=917504 dims[1..4]=0 915475 2027 2 dim1calls=149577 path: 0 1 11 15 18
+nodes=983040 dims[1..4]=0 980796 2242 2 dim1calls=167740 path: 1 4 6 17
+nodes=1048576 dims[1..4]=0 1046210 2364 2 dim1calls=188333 path: 1 5 8 17
+nodes=1114112 dims[1..4]=0 1111732 2378 2 dim1calls=195921 path: 0 6
+nodes=1179648 dims[1..4]=0 1176966 2680 2 dim1calls=203741 path: 7 10 12
+nodes=1245184 dims[1..4]=0 1242323 2859 2 dim1calls=227176 path: 0 6
+nodes=1310720 dims[1..4]=0 1307735 2983 2 dim1calls=251966 path: 0 15 16

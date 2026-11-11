@@ -1,0 +1,3 @@
+k=4 target=14 case=2: configuration of size >= target exists: NO | best size seen 12 | nodes 6519366 | subspaces solved 3266077
+lines decided by integer-range shortcut: 0, by full search: 3034422
+best: integers 2 1 9 5 3 4 6 7 8 10 11 12

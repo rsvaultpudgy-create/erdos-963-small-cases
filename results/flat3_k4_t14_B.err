@@ -1,0 +1,8 @@
+case 2: 36 candidate forms
+progress: solved 500000 (lines 492836, planes 7126, 3-spaces 37) nodes=1766102 cpu=523s
+progress: solved 1000000 (lines 985951, planes 13994, 3-spaces 54) nodes=3026790 cpu=1017s
+progress: solved 1500000 (lines 1479180, planes 20748, 3-spaces 71) nodes=3870767 cpu=1499s
+progress: solved 2000000 (lines 1972034, planes 27875, 3-spaces 90) nodes=4901471 cpu=1974s
+progress: solved 2500000 (lines 2465605, planes 34290, 3-spaces 104) nodes=5504846 cpu=2417s
+progress: solved 3000000 (lines 2958435, planes 41443, 3-spaces 121) nodes=6373073 cpu=2881s
+top-level: finished depth-0 choice 0  (nodes 6561910, subspaces solved 3296181, best 12, cpu 3133s)
